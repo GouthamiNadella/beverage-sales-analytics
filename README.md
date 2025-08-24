@@ -24,9 +24,9 @@ Some files in this project are too large to be stored directly on GitHub
 Instead, they are hosted externally.  
 Please download them from the following links and place them in the correct folders:
 
-- [dashboard/reports.pbix](https://drive.google.com/your-link-here) → `dashboard/reports.pbix`
-- [data/processed/main_data.csv](https://drive.google.com/your-link-here) → `data/processed/main_data.csv`
-- [data/synthetic_beverage_sales_data.csv](https://drive.google.com/your-link-here) → `data/synthetic_beverage_sales_data.csv`
+- [dashboard/reports.pbix](https://drive.google.com/file/d/1ZNmcwCXV1RE30SeGdSf3MKYlrSXW9N7E/view?usp=drive_link) → `dashboard/reports.pbix`
+- [data/processed/main_data.csv](https://drive.google.com/file/d/1oHc9yMqLWaivzQPKWvPwiN6D43RLVizJ/view?usp=drive_link) → `data/processed/main_data.csv`
+- [data/synthetic_beverage_sales_data.csv](https://drive.google.com/file/d/1L3WR7CGYLAzPZI8jdIX4PeDHWBeIXmpe/view?usp=drive_link) → `data/synthetic_beverage_sales_data.csv`
 
 ⚠️ **Note:** These files are excluded from version control via `.gitignore`.
 
