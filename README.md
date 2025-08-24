@@ -34,7 +34,7 @@ Please download them from the following links and place them in the correct fold
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone Repository
-```bash
+
 git clone https://github.com/your-username/beverage-sales-analytics.git
 cd beverage-sales-analytics
 
