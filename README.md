@@ -38,14 +38,21 @@ Please download them from the following links and place them in the correct fold
 git clone https://github.com/your-username/beverage-sales-analytics.git
 cd beverage-sales-analytics
 
-Install Dependencies
+2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-Run Notebooks
-
+3️⃣ Run Notebooks
 Open Jupyter Lab/Notebook and explore the analysis:
+
 jupyter notebook notebooks/01_EDA.ipynb
 
+📊 Power BI Dashboard
+
+Download the .pbix file from /dashboard
+
+Open with Power BI Desktop
+
+Example Screenshots:
 🛠️ Tech Stack
 
 Python: Pandas, Prophet, Matplotlib, Scikit-learn
