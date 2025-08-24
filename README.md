@@ -38,10 +38,10 @@ Please download them from the following links and place them in the correct fold
 git clone https://github.com/your-username/beverage-sales-analytics.git
 cd beverage-sales-analytics
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run Notebooks
+### 3️⃣ Run Notebooks
 Open Jupyter Lab/Notebook and explore the analysis:
 
 jupyter notebook notebooks/01_EDA.ipynb
